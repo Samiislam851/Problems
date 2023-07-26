@@ -1,5 +1,8 @@
 
-let a = 'this is a '
+//Task 1 : Create a function that takes a string as input and returns the reversed version of the string without using the built-in reverse() method. 
+
+
+let a = 'this is a string'
 
 const reverseString = (str) => {
 const a = [...str];
